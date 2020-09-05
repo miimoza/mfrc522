@@ -1,0 +1,16 @@
+Dorian Vinai
+Antoine Coulon
+
+We wrote the gistre_card module in linux/drivers/gistre/card.
+
+card
+|
+|-- card.h
+|-- card_fops.h
+
+|-- card_init.c
+|-- card_exit.c
+
+|-- card_write.c
+|-- card_read.c
+|-- card_
